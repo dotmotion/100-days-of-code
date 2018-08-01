@@ -7,9 +7,9 @@
 
 **Thoughts**: I still need to work on learning the SCSS framework properly, especially the @mixin function
 
-**Link(s) to work**
+**Links to work**
 1. [**work:**] [website](http://outon.mx)
-2. [**blog:**] [blog post name](http://dotmotion.outon.mx/?p=39)
+2. [**blog:**] [day0.scss](http://dotmotion.outon.mx/?p=39)
 
 ### Day 1: July 31, 2018
 #####
@@ -18,6 +18,6 @@
 
 **Thoughts**: Functions on SCSS are useful and fairly easy, CSS Grid is also very useful and versatile, will try to combine it with flexbox later
 
-**Link(s) to work**
+**Links to work**
 1. [**work:**] [website](http://outon.mx/about.html)
-2. [**blog:**] [blog post name](http://dotmotion.outon.mx/?p=59)
+2. [**blog:**] [day1.css](http://dotmotion.outon.mx/?p=59)
