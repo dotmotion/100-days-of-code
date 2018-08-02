@@ -21,3 +21,14 @@
 **Links to work**
 1. [**work:**] [website](http://outon.mx/about.html)
 2. [**blog:**] [day1.css](http://dotmotion.outon.mx/?p=59)
+
+### Day 2: August 1, 2018
+#####
+
+**Today's Progress**: Added the work page where I can showcase any future projects, with this the portfolio is technically finished
+
+**Thoughts**: From now on, every project I create should be showcased here. I also want to remove the '.html' endings on the URLs
+
+**Links to work**
+1. [**work:**] [website](http://outon.mx/work.html)
+2. [**blog:**] [day1.css](http://dotmotion.outon.mx/?p=59)
