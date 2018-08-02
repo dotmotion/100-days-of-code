@@ -9,7 +9,7 @@
 
 **Links to work**
 1. [**work:**] [website](http://outon.mx)
-2. [**blog:**] [day0.scss](http://dotmotion.outon.mx/?p=39)
+2. [**blog:**] [day0](http://dotmotion.outon.mx/?p=39)
 
 ### Day 1: July 31, 2018
 #####
@@ -20,7 +20,7 @@
 
 **Links to work**
 1. [**work:**] [website](http://outon.mx/about.html)
-2. [**blog:**] [day1.css](http://dotmotion.outon.mx/?p=59)
+2. [**blog:**] [day1](http://dotmotion.outon.mx/?p=59)
 
 ### Day 2: August 1, 2018
 #####
@@ -31,4 +31,4 @@
 
 **Links to work**
 1. [**work:**] [website](http://outon.mx/work.html)
-2. [**blog:**] [day1.css](http://dotmotion.outon.mx/?p=59)
+2. [**blog:**] [day2](http://dotmotion.outon.mx/?p=64)
