@@ -32,3 +32,13 @@
 **Links to work**
 1. [**work:**] [website](http://outon.mx/work.html)
 2. [**blog:**] [day2](http://dotmotion.outon.mx/?p=64)
+
+### Day 3: August 2, 2018
+#####
+
+**Today's Progress**: Started the JavaScript30 course in order to practice JS. Built the first 2 projects
+
+**Thoughts**: this course will be a great practice to get me comfortable with JavaScript
+
+**Link to work**
+1. [**blog:**] [day2](http://dotmotion.outon.mx/?p=64)
