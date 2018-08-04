@@ -41,4 +41,16 @@
 **Thoughts**: this course will be a great practice to get me comfortable with JavaScript
 
 **Link to work**
-1. [**blog:**] [day2](http://dotmotion.outon.mx/?p=64)
+1. [**blog:**] [day3](http://dotmotion.outon.mx/?p=70)
+
+### Day 4: August 3, 2018
+#####
+
+**Today's Progress**: Continued with JavaScript30, built the next 3 projects
+
+**Thoughts**: I used datasets on the CSS variables project, looks useful, and will try to implement again to remember it. The array excercise was tough, will have to do it again to make sure the knowledge sticks
+
+Also learned how to use native variables in CSS (instead of the ones on sass) [--foo: #fff;  // var(--foo);]
+
+**Link to work**
+1. [**blog:**] [day4]( http://dotmotion.outon.mx/?p=85)
