@@ -53,4 +53,16 @@
 Also learned how to use native variables in CSS (instead of the ones on sass) [--foo: #fff;  // var(--foo);]
 
 **Link to work**
-1. [**blog:**] [day4]( http://dotmotion.outon.mx/?p=85)
+1. [**blog:**] [day4](http://dotmotion.outon.mx/?p=85)
+
+### Day 5: August 5, 2018
+#####
+
+**Today's Progress**: Continued with JavaScript30, built the next project
+
+**Thoughts**: this new project used a lot of regular expressions, another subject I really need to dive into in the near future. This project will be extremely useful in future projects where I want to match a user search with a database.
+
+(skipped the last day due to travel)
+
+**Link to work**
+1. [**blog:**] [day5](http://dotmotion.outon.mx/?p=91)
