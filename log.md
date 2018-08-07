@@ -66,3 +66,13 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 
 **Link to work**
 1. [**blog:**] [day5](http://dotmotion.outon.mx/?p=91)
+
+### Day 6: August 6, 2018
+#####
+
+**Today's Progress**: Continued with JavaScript30, worked on the second Array cardio excercise
+
+**Thoughts**: used some new array methods for working with data
+
+**Link to work**
+1. [**blog:**] [day6](http://dotmotion.outon.mx/?p=95)
