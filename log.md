@@ -76,3 +76,10 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 
 **Link to work**
 1. [**blog:**] [day6](http://dotmotion.outon.mx/?p=95)
+
+### Day 7: August 7, 2018
+#####
+
+**Today's Progress**: I had an internet outage the whole day so no videos, coirses or enev recourses, so offline coding only.
+
+**Thoughts**: offline coding is not for me yet, i still need to read up docume tation and some properties here and there, but this was a nice way of seeing how much i can do on my own (not so much)
