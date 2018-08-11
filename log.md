@@ -48,7 +48,7 @@
 
 **Today's Progress**: Continued with JavaScript30, built the next 3 projects
 
-**Thoughts**: I used datasets on the CSS variables project, looks useful, and will try to implement again to remember it. The array excercise was tough, will have to do it again to make sure the knowledge sticks
+**Thoughts**: I used datasets on the CSS variables project, looks useful, and will try to implement again to remember it. The array exercise was tough, will have to do it again to make sure the knowledge sticks
 
 Also learned how to use native variables in CSS (instead of the ones on sass) [--foo: #fff;  // var(--foo);]
 
@@ -70,7 +70,7 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 ### Day 6: August 6, 2018
 #####
 
-**Today's Progress**: Continued with JavaScript30, worked on the second Array cardio excercise
+**Today's Progress**: Continued with JavaScript30, worked on the second Array cardio exercise
 
 **Thoughts**: used some new array methods for working with data
 
