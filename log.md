@@ -76,3 +76,18 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 
 **Link to work**
 1. [**blog:**] [day6](http://dotmotion.outon.mx/?p=95)
+
+### Day 7: August 7, 2018
+#####
+
+**Today**: No internet today since noon. Tried working on some websites while offline but I noticed I still lean on heavily on documentation and other thing to refresh my memory. Will come back when the internet is fixed
+
+### Day 8: August 10, 2018
+#####
+
+**Today's Progress**: Came back to JS30 and worked with HTML5 Canvas for the first time
+
+**Thoughts**: learned the basics of canvas and had fun getting the canvas to draw the way I wanted to. used flags, conditions and a few event listeners to get it to work
+
+**Link to work**
+1. [**blog:**] [day8](http://dotmotion.outon.mx/?p=99)
