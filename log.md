@@ -91,3 +91,13 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 
 **Link to work**
 1. [**blog:**] [day8](http://dotmotion.outon.mx/?p=99)
+
+### Day 9: August 11, 2018
+#####
+
+**Today's Progress**: Worked on the next JS30 project, adding multiple selection functionality to a checkbox list when holding shift
+
+**Thoughts**: used flags again to know my place around the objects and worked on a few conditions
+
+**Link to work**
+1. [**blog:**] [day9](http://dotmotion.outon.mx/?p=104)
