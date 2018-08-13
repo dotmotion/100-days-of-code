@@ -101,3 +101,13 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 
 **Link to work**
 1. [**blog:**] [day9](http://dotmotion.outon.mx/?p=104)
+
+### Day 10: August 12, 2018
+#####
+
+**Today's Progress**: Worked on a project that creates a custom video player controls
+
+**Thoughts**: This was a cool project showcasing another useful way of working with JS to customize the personalized experience of your website
+
+**Link to work**
+1. [**blog:**] [day10](http://dotmotion.outon.mx/?p=106)
