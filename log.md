@@ -111,3 +111,13 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 
 **Link to work**
 1. [**blog:**] [day10](http://dotmotion.outon.mx/?p=106)
+
+### Day 11: August 13, 2018
+#####
+
+**Today's Progress**: Today's project was quite small, so I complemented it with a few hours of Udemy courses on JavaScript
+
+**Thoughts**: today's project consisted in detecting a specific sequence of keys (konami code) on the browser. so basically a rudimentary keylogger, but at least you're not really storing the keystrokes
+
+**Link to work**
+1. [**blog:**] [day10](http://dotmotion.outon.mx/?p=109)
