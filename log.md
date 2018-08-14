@@ -121,3 +121,13 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 
 **Link to work**
 1. [**blog:**] [day10](http://dotmotion.outon.mx/?p=109)
+
+### Day 12: August 14, 2018
+#####
+
+**Today's Progress**: The project I built today involved adding and removing classes to images to have them slide in when they're in view.
+
+**Thoughts**: Today's project involved working with a debounce function to prevent a scroll event from calling a function too many times. The functions to determine if the image was in view involved some math, but not too complicated luckily
+
+**Link to work**
+1. [**blog:**] [day10](http://dotmotion.outon.mx/?p=111)
