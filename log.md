@@ -131,3 +131,13 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 
 **Link to work**
 1. [**blog:**] [day10](http://dotmotion.outon.mx/?p=111)
+
+### Day 13: August 15, 2018
+#####
+
+**Today's Progress**: Today's exercise involved learning some core JS concepts; the difference between referencing and copying.
+
+**Thoughts**: Being able to differentiate the two will make or break a project, will need to grind this one down.
+
+**Link to work**
+1. [**blog:**] [day10](http://dotmotion.outon.mx/?p=114)
