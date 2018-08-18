@@ -151,3 +151,13 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 
 **Link to work**
 1. [**blog:**] [day10](http://dotmotion.outon.mx/?p=116)
+
+### Day 15: August 18, 2018
+#####
+
+**Today's Progress**: Today's project was to make a drop shadow move based on the position of the cursor on the page.
+
+**Thoughts**: There was some math involved on this project in order to prevent some issues with the coordinates of child elements (in relation to the object we're listening to). It also involved more math in order to restrict the movement of the shadow to our defined max value.
+
+**Link to work**
+1. [**blog:**] [day10](http://dotmotion.outon.mx/?p=118)
