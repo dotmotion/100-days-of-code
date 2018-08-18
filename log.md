@@ -141,3 +141,13 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 
 **Link to work**
 1. [**blog:**] [day10](http://dotmotion.outon.mx/?p=114)
+
+### Day 14: August 17, 2018
+#####
+
+**Today's Progress**: Today's project involved working with local storage and event delegation.
+
+**Thoughts**: local storage was fun and useful, event delegation was a little more obscure
+
+**Link to work**
+1. [**blog:**] [day10](http://dotmotion.outon.mx/?p=116)
