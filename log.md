@@ -120,7 +120,7 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 **Thoughts**: today's project consisted in detecting a specific sequence of keys (konami code) on the browser. so basically a rudimentary keylogger, but at least you're not really storing the keystrokes
 
 **Link to work**
-1. [**blog:**] [day10](http://dotmotion.outon.mx/?p=109)
+1. [**blog:**] [day11](http://dotmotion.outon.mx/?p=109)
 
 ### Day 12: August 14, 2018
 #####
@@ -130,7 +130,7 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 **Thoughts**: Today's project involved working with a debounce function to prevent a scroll event from calling a function too many times. The functions to determine if the image was in view involved some math, but not too complicated luckily
 
 **Link to work**
-1. [**blog:**] [day10](http://dotmotion.outon.mx/?p=111)
+1. [**blog:**] [day12](http://dotmotion.outon.mx/?p=111)
 
 ### Day 13: August 15, 2018
 #####
@@ -140,7 +140,7 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 **Thoughts**: Being able to differentiate the two will make or break a project, will need to grind this one down.
 
 **Link to work**
-1. [**blog:**] [day10](http://dotmotion.outon.mx/?p=114)
+1. [**blog:**] [day13](http://dotmotion.outon.mx/?p=114)
 
 ### Day 14: August 17, 2018
 #####
@@ -150,7 +150,7 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 **Thoughts**: local storage was fun and useful, event delegation was a little more obscure
 
 **Link to work**
-1. [**blog:**] [day10](http://dotmotion.outon.mx/?p=116)
+1. [**blog:**] [day14](http://dotmotion.outon.mx/?p=116)
 
 ### Day 15: August 18, 2018
 #####
@@ -160,4 +160,15 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 **Thoughts**: There was some math involved on this project in order to prevent some issues with the coordinates of child elements (in relation to the object we're listening to). It also involved more math in order to restrict the movement of the shadow to our defined max value.
 
 **Link to work**
-1. [**blog:**] [day10](http://dotmotion.outon.mx/?p=118)
+1. [**blog:**] [day15](http://dotmotion.outon.mx/?p=118)
+
+### Day 16: August 19, 2018
+#####
+
+**Today's Progress**: I decided to give JS30 a rest and wanted to start a bigger project. The project is a budget application running only on JavaScript.
+
+**Thoughts**: I moved to this bigger and more ambitious project to put in practice some things I’ve been learning on my different courses, specifically planning and writing reusable code (among others)
+
+**Links to work**
+1. [**work:**] [BudgetApp](https://dotmotion.github.io/BudgetApp/)
+2. [**blog:**] [day16](http://dotmotion.outon.mx/?p=122)
