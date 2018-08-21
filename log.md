@@ -172,3 +172,14 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 **Links to work**
 1. [**work:**] [BudgetApp](https://dotmotion.github.io/BudgetApp/)
 2. [**blog:**] [day16](http://dotmotion.outon.mx/?p=122)
+
+### Day 17: August 20, 2018
+#####
+
+**Today's Progress**: Today I kept working on the Budget Application, and the basic functions are working. It will accept inputs and will display a budget calculation as well as totals
+
+**Thoughts**: This project is really teaching me how to organize the code and work with functions carefully, as well as keeping a good eye on the data and some serious debugging when (never if) something breaks
+
+**Links to work**
+1. [**work:**] [BudgetApp](https://dotmotion.github.io/BudgetApp/)
+2. [**blog:**] [day17](http://dotmotion.outon.mx/?p=128)
