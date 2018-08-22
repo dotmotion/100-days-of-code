@@ -183,3 +183,14 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 **Links to work**
 1. [**work:**] [BudgetApp](https://dotmotion.github.io/BudgetApp/)
 2. [**blog:**] [day17](http://dotmotion.outon.mx/?p=128)
+
+### Day 18: August 21, 2018
+#####
+
+**Today's Progress**: Today I kept working on the Budget Application, and now you're able to delete items.
+
+**Thoughts**: Today’s work taught me how to properly do event delegation and traversing the DOM using '.parentNode'. I know it was only useful because I hard-coded the HTML strings that the app is outputting into the UI. Had some more practive using '.split' and '.map'
+
+**Links to work**
+1. [**work:**] [BudgetApp](https://dotmotion.github.io/BudgetApp/)
+2. [**blog:**] [day17](http://dotmotion.outon.mx/?p=136)
