@@ -194,3 +194,14 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 **Links to work**
 1. [**work:**] [BudgetApp](https://dotmotion.github.io/BudgetApp/)
 2. [**blog:**] [day17](http://dotmotion.outon.mx/?p=136)
+
+### Day 19: August 22, 2018
+#####
+
+**Today's Progress**: Today I managed to finish the functionality of the app, the only thing I'd like to add to it are mainly style and CSS changes (might re-write it in SASS).
+
+**Thoughts**: I had to figure out at least 3 bugs in the application that were not only time consuming, but very dubm mistakes like not calling a function properly or misspelling it's name when declaring it. Very very dumb. I need to pay more attention to what I'm doing
+
+**Links to work**
+1. [**work:**] [BudgetApp](https://dotmotion.github.io/BudgetApp/)
+2. [**blog:**] [day17](http://dotmotion.outon.mx/?p=138)
