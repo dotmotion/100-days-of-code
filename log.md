@@ -205,3 +205,8 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 **Links to work**
 1. [**work:**] [BudgetApp](https://dotmotion.github.io/BudgetApp/)
 2. [**blog:**] [day17](http://dotmotion.outon.mx/?p=138)
+
+### Day 20: August 23, 2018
+#####
+
+**Today's Progress**: Today I took it easy and just worked on new CSS code for a future dark theme on the app. 
