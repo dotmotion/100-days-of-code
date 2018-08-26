@@ -193,7 +193,7 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 
 **Links to work**
 1. [**work:**] [BudgetApp](https://dotmotion.github.io/BudgetApp/)
-2. [**blog:**] [day17](http://dotmotion.outon.mx/?p=136)
+2. [**blog:**] [day18](http://dotmotion.outon.mx/?p=136)
 
 ### Day 19: August 22, 2018
 #####
@@ -204,9 +204,25 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 
 **Links to work**
 1. [**work:**] [BudgetApp](https://dotmotion.github.io/BudgetApp/)
-2. [**blog:**] [day17](http://dotmotion.outon.mx/?p=138)
+2. [**blog:**] [day19](http://dotmotion.outon.mx/?p=138)
 
 ### Day 20: August 23, 2018
 #####
 
 **Today's Progress**: Today I took it easy and just worked on new CSS code for a future dark theme on the app. 
+
+### Day 21: August 24, 2018
+#####
+
+**Today's Progress**: Today I started learning React and built the skeleton for the new application I want to build.
+
+### Day 19: August 22, 2018
+#####
+
+**Today's Progress**: Today I created the first element ('Card') and a way to render it on the application. This Card is populated automatically from data from a file
+
+**Thoughts**: There's always an initial shock when you're presented with a new syntax, and writing HTML (JSX) along with JavaScript is definitely weird, but it's not that bad. Also, this project is both my first attempt at React, and a prototype for a cleaner app I'd like to make in the future
+
+**Links to work**
+1. [**work:**] [Herbalizer](https://dotmotion.github.io/Herbalizer/)
+2. [**blog:**] [day22](http://dotmotion.outon.mx/?p=146)
