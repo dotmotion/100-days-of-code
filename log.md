@@ -216,7 +216,7 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 
 **Today's Progress**: Today I started learning React and built the skeleton for the new application I want to build.
 
-### Day 19: August 22, 2018
+### Day 22: August 25, 2018
 #####
 
 **Today's Progress**: Today I created the first element ('Card') and a way to render it on the application. This Card is populated automatically from data from a file
@@ -226,3 +226,25 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 **Links to work**
 1. [**work:**] [Herbalizer](https://dotmotion.github.io/Herbalizer/)
 2. [**blog:**] [day22](http://dotmotion.outon.mx/?p=146)
+
+### Day 23: August 26, 2018
+#####
+
+**Today's Progress**: Today I changed the application component into a class in order to use states. I also tried to add functionality to the search bar and failed
+
+**Thoughts**: I’m ashamed to say I had never worked with classes before, and that bug was really annoying, I’ll fix it tomorrow
+
+**Links to work**
+1. [**work:**] [Herbalizer](https://dotmotion.github.io/Herbalizer/)
+2. [**blog:**] [day22](http://dotmotion.outon.mx/?p=153)
+
+### Day 24: August 27, 2018
+#####
+
+**Today's Progress**: Today I fixed yesterday’s bug and finished the functionality of the search bar. I also added and edited some CSS in order for everything to look less ugly
+
+**Thoughts**: A clear head is the best way to tackle a problem. Bug was dumb, missed some {}
+
+**Links to work**
+1. [**work:**] [Herbalizer](https://dotmotion.github.io/Herbalizer/)
+2. [**blog:**] [day22](http://dotmotion.outon.mx/?p=155)
