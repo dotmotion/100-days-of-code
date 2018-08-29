@@ -248,3 +248,13 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 **Links to work**
 1. [**work:**] [Herbalizer](https://dotmotion.github.io/Herbalizer/)
 2. [**blog:**] [day22](http://dotmotion.outon.mx/?p=155)
+
+### Day 25: August 28, 2018
+#####
+
+**Today's Progress**: Today I went back to JS30 and practiced with a sorting exercise
+
+**Thoughts**: The sorting exercise involved ignoring the articles in a given string (a, an, the) and then return an ordered version of the list of strings
+
+**Link to work**
+1. [**blog:**] [day25](http://dotmotion.outon.mx/?p=157)
