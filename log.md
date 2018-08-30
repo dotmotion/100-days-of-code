@@ -258,3 +258,13 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 
 **Link to work**
 1. [**blog:**] [day25](http://dotmotion.outon.mx/?p=157)
+
+### Day 25: August 28, 2018
+#####
+
+**Today's Progress**: Today I worked on another JS30 exercise
+
+**Thoughts**: Today's exercise involved working with the reduce() function to add numbers. I want to finish the JS30 projects first since having the basic JS knowledge fresh might help in future interviews
+
+**Link to work**
+1. [**blog:**] [day25](http://dotmotion.outon.mx/?p=160)
