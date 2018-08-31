@@ -259,7 +259,7 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 **Link to work**
 1. [**blog:**] [day25](http://dotmotion.outon.mx/?p=157)
 
-### Day 25: August 28, 2018
+### Day 26: August 29, 2018
 #####
 
 **Today's Progress**: Today I worked on another JS30 exercise
@@ -268,3 +268,13 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 
 **Link to work**
 1. [**blog:**] [day25](http://dotmotion.outon.mx/?p=160)
+
+### Day 27: August 30, 2018
+#####
+
+**Today's Progress**: Today I worked on 2 more JS30 exercises
+
+**Thoughts**: Again, the focus is to work more with the basics of JavaScript, so today's exercises were a sticky nav and adding a <span> that follows your mouse along links, highlighting them
+
+**Link to work**
+1. [**blog:**] [day25](http://dotmotion.outon.mx/?p=164)
