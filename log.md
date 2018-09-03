@@ -278,3 +278,16 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 
 **Link to work**
 1. [**blog:**] [day25](http://dotmotion.outon.mx/?p=164)
+
+### Day 28: September 2, 2018
+#####
+
+**Today's Progress**: Today I officially started the minimalist portfolio website on react. Started with doing mockups of how I'd like it to look, planning the roadmap and starting to build the first components. I'll have something to publish tomorrow probably
+
+**Thoughts**: I know I lost some days, but I had so shelve the previous react project, it was more ambitious than anything I've ever tried and didn't really have and end product in mind.
+
+Instead of following that rabbit hole I decided to go with something I've already built before, but now using my new React knowledge to make it even better than the previous one
+
+**Links to work**
+1. [**work:**] [GitHub Repo](https://github.com/dotmotion/minimal_portfolio)
+2. [**blog:**] [day22](http://dotmotion.outon.mx/?p=167)
