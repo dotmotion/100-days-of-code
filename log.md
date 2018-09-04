@@ -291,3 +291,14 @@ Instead of following that rabbit hole I decided to go with something I've alread
 **Links to work**
 1. [**work:**] [GitHub Repo](https://github.com/dotmotion/minimal_portfolio)
 2. [**blog:**] [day22](http://dotmotion.outon.mx/?p=167)
+
+### Day 29: September 3, 2018
+#####
+
+**Today's Progress**: Today I made good progress, somewhat finished the landing page and I'm still fighting a bit with the footer.
+
+**Thoughts**: I haven't deployed any code because I have an embarrassing bug I need to fix tomorrow, other than that today went really smoothly. The only problem I keep facing is not being sure how I want it to look in the end.
+
+**Links to work**
+1. [**work:**] [GitHub Repo](https://github.com/dotmotion/minimal_portfolio)
+2. [**blog:**] [day22](http://dotmotion.outon.mx/?p=170)
