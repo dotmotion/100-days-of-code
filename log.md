@@ -302,3 +302,14 @@ Instead of following that rabbit hole I decided to go with something I've alread
 **Links to work**
 1. [**work:**] [GitHub Repo](https://github.com/dotmotion/minimal_portfolio)
 2. [**blog:**] [day22](http://dotmotion.outon.mx/?p=170)
+
+### Day 30: September 4, 2018
+#####
+
+**Today's Progress**: Today I finished a showable product. Animations and details to follow.
+
+**Thoughts**:  I now have a working product, but on the other hand there's still work to do, I need to make this responsive, and maybe add a few subtle animations and details to make the experience a little better
+
+**Links to work**
+1. [**work:**] [Minimal Portfolio](https://dotmotion.github.io/minimal_portfolio/)
+2. [**blog:**] [day22](http://dotmotion.outon.mx/?p=170)
