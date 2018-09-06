@@ -313,3 +313,14 @@ Instead of following that rabbit hole I decided to go with something I've alread
 **Links to work**
 1. [**work:**] [Minimal Portfolio](https://dotmotion.github.io/minimal_portfolio/)
 2. [**blog:**] [day22](http://dotmotion.outon.mx/?p=170)
+
+### Day 31: September 5, 2018
+#####
+
+**Today's Progress**: Today I went back and did another project from JS30.
+
+**Thoughts**:  I had to start studying SQL, Web Services and other non-JS stuff for an interview, so I went back to JS30 and did a little project from there
+
+**Links to work**
+1. [**work:**] [Follow Along Nav](https://codepen.io/dotmotion/pen/YOxgWJ)
+2. [**blog:**] [day22](http://dotmotion.outon.mx/?p=175)
