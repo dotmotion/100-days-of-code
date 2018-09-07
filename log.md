@@ -267,7 +267,7 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 **Thoughts**: Today's exercise involved working with the reduce() function to add numbers. I want to finish the JS30 projects first since having the basic JS knowledge fresh might help in future interviews
 
 **Link to work**
-1. [**blog:**] [day25](http://dotmotion.outon.mx/?p=160)
+1. [**blog:**] [day26](http://dotmotion.outon.mx/?p=160)
 
 ### Day 27: August 30, 2018
 #####
@@ -277,7 +277,7 @@ Also learned how to use native variables in CSS (instead of the ones on sass) [-
 **Thoughts**: Again, the focus is to work more with the basics of JavaScript, so today's exercises were a sticky nav and adding a <span> that follows your mouse along links, highlighting them
 
 **Link to work**
-1. [**blog:**] [day25](http://dotmotion.outon.mx/?p=164)
+1. [**blog:**] [day27](http://dotmotion.outon.mx/?p=164)
 
 ### Day 28: September 2, 2018
 #####
@@ -290,7 +290,7 @@ Instead of following that rabbit hole I decided to go with something I've alread
 
 **Links to work**
 1. [**work:**] [GitHub Repo](https://github.com/dotmotion/minimal_portfolio)
-2. [**blog:**] [day22](http://dotmotion.outon.mx/?p=167)
+2. [**blog:**] [day28](http://dotmotion.outon.mx/?p=167)
 
 ### Day 29: September 3, 2018
 #####
@@ -301,7 +301,7 @@ Instead of following that rabbit hole I decided to go with something I've alread
 
 **Links to work**
 1. [**work:**] [GitHub Repo](https://github.com/dotmotion/minimal_portfolio)
-2. [**blog:**] [day22](http://dotmotion.outon.mx/?p=170)
+2. [**blog:**] [day29](http://dotmotion.outon.mx/?p=170)
 
 ### Day 30: September 4, 2018
 #####
@@ -312,7 +312,7 @@ Instead of following that rabbit hole I decided to go with something I've alread
 
 **Links to work**
 1. [**work:**] [Minimal Portfolio](https://dotmotion.github.io/minimal_portfolio/)
-2. [**blog:**] [day22](http://dotmotion.outon.mx/?p=170)
+2. [**blog:**] [day30](http://dotmotion.outon.mx/?p=170)
 
 ### Day 31: September 5, 2018
 #####
@@ -323,4 +323,15 @@ Instead of following that rabbit hole I decided to go with something I've alread
 
 **Links to work**
 1. [**work:**] [Follow Along Nav](https://codepen.io/dotmotion/pen/YOxgWJ)
-2. [**blog:**] [day22](http://dotmotion.outon.mx/?p=175)
+2. [**blog:**] [day31](http://dotmotion.outon.mx/?p=175)
+
+### Day 32: September 6, 2018
+#####
+
+**Today's Progress**: Today I built another JS30 project
+
+**Thoughts**:  Today's little project involved a list of horizontally scrolling items that need to be scrolled with a click and drag of the mouse. I posted this one on CodePen as well.
+
+**Links to work**
+1. [**work:**] [Click and Drag](https://codepen.io/dotmotion/full/EewJdM)
+2. [**blog:**] [day32](http://dotmotion.outon.mx/?p=175)
