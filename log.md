@@ -335,3 +335,16 @@ Instead of following that rabbit hole I decided to go with something I've alread
 **Links to work**
 1. [**work:**] [Click and Drag](https://codepen.io/dotmotion/full/EewJdM)
 2. [**blog:**] [day32](http://dotmotion.outon.mx/?p=175)
+
+### Day 33: September 7, 2018
+#####
+
+**Today's Progress**: Today I built another JS30 project
+
+**Thoughts**:  Today's project was a countdown timer, with some buttons and an input field.
+
+**Links to work**
+1. [**work:**] [Countdown timer](https://codepen.io/dotmotion/full/EewBjZ/)
+2. [**blog:**] [day33](http://dotmotion.outon.mx/?p=181)
+
+https://codepen.io/dotmotion/full/EewBjZ/
