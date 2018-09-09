@@ -347,4 +347,13 @@ Instead of following that rabbit hole I decided to go with something I've alread
 1. [**work:**] [Countdown timer](https://codepen.io/dotmotion/full/EewBjZ/)
 2. [**blog:**] [day33](http://dotmotion.outon.mx/?p=181)
 
-https://codepen.io/dotmotion/full/EewBjZ/
+### Day 34: September 8, 2018
+#####
+
+**Today's Progress**: Today I built another JS30 project
+
+**Thoughts**:  Today's project was a countdown timer, with some buttons and an input field.
+
+**Links to work**
+1. [**work:**] [Canvas Collection](https://codepen.io/collection/XpPRaJ/#)
+2. [**blog:**] [day34](http://dotmotion.outon.mx/?p=185)
