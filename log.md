@@ -357,3 +357,31 @@ Instead of following that rabbit hole I decided to go with something I've alread
 **Links to work**
 1. [**work:**] [Canvas Collection](https://codepen.io/collection/XpPRaJ/#)
 2. [**blog:**] [day34](http://dotmotion.outon.mx/?p=185)
+
+### Day 35: September 8, 2018
+#####
+
+**Today's Progress**: Today I continued working on the 3 HTML canvas projects
+
+**Thoughts**:  I’ve been working on small details, like handling the re-size of the window, resetting on command, and I’m currently stuck making a menu so some values can be updated by the user
+
+### Day 36: September 10, 2018
+#####
+
+**Today's Progress**: Today I continued working on the 3 HTML canvas projects
+
+**Thoughts**:  I’ve been working on small details, like handling the re-size of the window, resetting on command, and I’m currently stuck making a menu so some values can be updated by the user
+
+### Day 37: September 11, 2018
+#####
+
+**Today's Progress**: Today I went back to tinker with the minimal portfolio project.
+
+**Thoughts**:  The things I added today were:
+
+- 1.- Email link at the bottom now copies email string to the clipboard and displays a message
+- 2.- Typewriter effect on the second line of the profile.
+
+**Links to work**
+1. [**work:**] [Minimal Portfolio](https://dotmotion.github.io/minimal_portfolio/)
+2. [**blog:**] [day34](http://dotmotion.outon.mx/?p=201)
