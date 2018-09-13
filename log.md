@@ -455,7 +455,7 @@ Instead of following that rabbit hole I decided to go with something I've alread
 **Links to work**
 
 1. [**work:**][minimal portfolio](https://dotmotion.github.io/minimal_portfolio/)
-2. [**blog:**][day34](http://dotmotion.outon.mx/?p=201)
+2. [**blog:**][day37](http://dotmotion.outon.mx/?p=201)
 
 ### Day 38: September 12, 2018
 
@@ -463,4 +463,7 @@ Instead of following that rabbit hole I decided to go with something I've alread
 
 **Today's Progress**: Today I decided to try something new and started learning p5.js
 
-**Thoughts**: Since I was already doing some experiments with Canvas, I started learning and playing with the p5.js library(framework?) since it has a web editor that works like CodePen. I'm currently following the teaching of the COding Train YouTube Channel
+**Thoughts**: Since I was already doing some experiments with Canvas, I started learning and playing with the p5.js library, since it has a web editor that works like CodePen. I'm currently following the teaching of the Coding Train YouTube Channel
+
+1. [**work:**][p5.js](https://editor.p5js.org/full/HJsBZPPO7)
+2. [**blog:**][day38](http://dotmotion.outon.mx/?p=203)
