@@ -467,3 +467,13 @@ Instead of following that rabbit hole I decided to go with something I've alread
 
 1. [**work:**][p5.js](https://editor.p5js.org/full/HJsBZPPO7)
 2. [**blog:**][day38](http://dotmotion.outon.mx/?p=203)
+
+### Day 39: September 13, 2018
+
+#####
+
+**Today's Progress**: Today I worked on a simple game from the JS30 list
+
+**Thoughts**: The game in question was a simple whack-a-mole game. Way simpler than I expected, but still fun.
+
+[**blog:**][day39](http://dotmotion.outon.mx/?p=205)
