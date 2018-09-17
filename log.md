@@ -477,3 +477,37 @@ Instead of following that rabbit hole I decided to go with something I've alread
 **Thoughts**: The game in question was a simple whack-a-mole game. Way simpler than I expected, but still fun.
 
 [**blog:**][day39](http://dotmotion.outon.mx/?p=205)
+
+### Day 40: September 14, 2018
+
+#####
+
+**Today's Progress**: Today I worked on another simple project from the JS30 list
+
+**Thoughts**: The project involved a dynamic speed scrubber to control the playback speed of a video
+
+[**blog:**][day40](http://dotmotion.outon.mx/?p=207)
+
+### Day 41: September 15, 2018
+
+#####
+
+**Today's Progress**: Today worked on another canvas experiment
+
+**Thoughts**: To continue with the Canvas experiments, I worked today on Circular Motion. This one was a little bit tougher than the rest, but still pretty fun. These more basic experiments will later work as building blocks and references for bigger projects.
+
+1. [**work:**][CodePen](https://codepen.io/dotmotion/pen/ZMMLYe?editors=0010)
+2. [**blog:**][day41](http://dotmotion.outon.mx/?p=209)
+
+### Day 42: September 16, 2018
+
+#####
+
+**Today's Progress**: Today worked on another canvas experiment
+
+**Thoughts**: Last Friday I went to a coding meetup, and I may have committed to giving and intro course on HTML Canvas, so I definitely want to work on the basics so I can teach something simple and fun.
+
+Based on the first experiment of simple moving circles, I expanded today on that one, measuring the distance between circles an drawing a line if they’re close enough. Will be working on things like this through this whole week
+
+1. [**work:**][CodePen](https://codepen.io/dotmotion/pen/vzzVmW)
+2. [**blog:**][day42](http://dotmotion.outon.mx/?p=211)
