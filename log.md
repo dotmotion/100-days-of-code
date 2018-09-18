@@ -511,3 +511,14 @@ Based on the first experiment of simple moving circles, I expanded today on that
 
 1. [**work:**][CodePen](https://codepen.io/dotmotion/pen/vzzVmW)
 2. [**blog:**][day42](http://dotmotion.outon.mx/?p=211)
+
+### Day 43: September 17, 2018
+
+#####
+
+**Today's Progress**: Today's canvas experiment was a particle generator
+
+**Thoughts**: For the particle generator I had to figure out a new way of generating the particles dynamically, and I also added a lifespan in order to delete older particles and prevent filling the memory with oh so many particles
+
+1. [**work:**][CodePen](https://codepen.io/dotmotion/pen/QVZYJP)
+2. [**blog:**][day42](http://dotmotion.outon.mx/?p=215)
