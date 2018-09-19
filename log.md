@@ -521,4 +521,17 @@ Based on the first experiment of simple moving circles, I expanded today on that
 **Thoughts**: For the particle generator I had to figure out a new way of generating the particles dynamically, and I also added a lifespan in order to delete older particles and prevent filling the memory with oh so many particles
 
 1. [**work:**][CodePen](https://codepen.io/dotmotion/pen/QVZYJP)
-2. [**blog:**][day42](http://dotmotion.outon.mx/?p=215)
+2. [**blog:**][day43](http://dotmotion.outon.mx/?p=215)
+
+### Day 44: September 18, 2018
+
+#####
+
+**Today's Progress**: Today’s canvas experiment was a firework generator
+
+**Thoughts**: I started this one using the particle generator files since I liked that single effect for the explosions. I labeled this one as Version 1 because I really think I hacked this one together. 
+
+I separated the explosion from the rocket object, but I'm reusing the same rocket instead of generating an array of them, but hey, I'll just do better versions later :)
+
+1. [**work:**][CodePen](https://codepen.io/dotmotion/pen/ZMVGMN/)
+2. [**blog:**][day44](http://dotmotion.outon.mx/?p=217)
