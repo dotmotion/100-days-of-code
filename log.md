@@ -535,3 +535,14 @@ I separated the explosion from the rocket object, but I'm reusing the same rocke
 
 1. [**work:**][CodePen](https://codepen.io/dotmotion/pen/ZMVGMN/)
 2. [**blog:**][day44](http://dotmotion.outon.mx/?p=217)
+
+### Day 45: September 19, 2018
+
+#####
+
+**Today's Progress**: Today’s canvas experiment was a particle trail
+
+**Thoughts**: I started this one using the particle generator files since it's apparently the perfect effect for many things. This one was simple since I only had to track the mouse and hook up an event listener for when it moves. This also worked as an exercise to refactor some of the code
+
+1. [**work:**][CodePen](https://codepen.io/dotmotion/pen/MqLaNK/)
+2. [**blog:**][day45](http://dotmotion.outon.mx/?p=219)
