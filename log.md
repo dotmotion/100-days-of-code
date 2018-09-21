@@ -546,3 +546,18 @@ I separated the explosion from the rocket object, but I'm reusing the same rocke
 
 1. [**work:**][CodePen](https://codepen.io/dotmotion/pen/MqLaNK/)
 2. [**blog:**][day45](http://dotmotion.outon.mx/?p=219)
+
+### Day 46: September 20, 2018
+
+#####
+
+**Today's Progress**:Today’s I went back to working on my React minimal portfolio project
+
+**Thoughts**: I went back to work on this because I want to use it as my main website, so I need to finish it.
+
+Today's progress included some responsiveness, but I'm actually thinking of re'writing the CSS because I realized the mess I made there.
+
+The other addition was an iframe to showcase the Canvas Experiments I've been making instead of hiding them on CodePen
+
+1. [**work:**][GitHub](https://github.com/dotmotion/minimal_portfolio)
+2. [**blog:**][day46](http://dotmotion.outon.mx/?p=221)
