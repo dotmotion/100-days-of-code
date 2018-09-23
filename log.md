@@ -561,3 +561,14 @@ The other addition was an iframe to showcase the Canvas Experiments I've been ma
 
 1. [**work:**][GitHub](https://github.com/dotmotion/minimal_portfolio)
 2. [**blog:**][day46](http://dotmotion.outon.mx/?p=221)
+
+### Days 47 & 48: September 21 & 22, 2018
+
+#####
+
+**Today's Progress**: I continued working on my React minimal portfolio project
+
+**Thoughts**: II spent these 2 days re-writing the CSS for the site and finished the responsiveness (mostly)
+
+1. [**work:**][GitHub](https://github.com/dotmotion/minimal_portfolio)
+2. [**blog:**][day47-48](http://dotmotion.outon.mx/?p=225)
